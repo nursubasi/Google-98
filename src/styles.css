@@ -1,0 +1,18 @@
+
+.body{
+display: block;
+margin: 8px;
+}
+.brand-image {
+   text-align: center;
+}
+.image {
+    display: block;
+    margin: 0 auto;
+}
+table {
+    border: 0px;
+}
+td {
+    background-color: #EEEEEE;
+}
