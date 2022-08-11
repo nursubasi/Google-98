@@ -1,8 +1,23 @@
 
-.body{
+body{
 display: block;
 margin: 8px;
+text-align: center;
 }
+
+table {
+    border: 0px;
+    margin: 0 auto;
+}
+td {
+    background-color: #EEEEEE;
+}
+
+p {
+    font-size: small;
+    margin: 16px 0;
+}
+
 .brand-image {
    text-align: center;
 }
@@ -10,9 +25,24 @@ margin: 8px;
     display: block;
     margin: 0 auto;
 }
-table {
-    border: 0px;
+
+.table-container {
+text-align: center;
 }
-td {
-    background-color: #EEEEEE;
+
+.first-colomn {
+    background-color: #7EE5DA;
+}
+.second-colomn {
+    background-color: #70CCC2;
+    font-size: small;
+}
+.third-colomn {
+    background-color: #62B3AA;
+    align-items: right;
+    font-size: small;
+}
+
+.subscribe-button {
+    margin-right: 10px;
 }
